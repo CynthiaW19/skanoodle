@@ -63,7 +63,7 @@ comment{
 <body>
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card" id="myNavbar">
-    <a href="#" class="w3-bar-item w3-button w3-wide">SKANOODLE</a>
+	<a class="navbar-brand" style="font-size: 30px;">&nbsp; SKANOODLE</a>
     <div class="w3-right w3-hide-small">
       <a href="#" class="w3-bar-item w3-button"><i class="fa fa-list"></i>Home </a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-list"></i> Our Team</a>
