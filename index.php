@@ -67,7 +67,6 @@ comment{
     <div class="w3-right w3-hide-small">
       <a href="#" class="w3-bar-item w3-button"><i class="fa fa-list"></i>Home </a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-list"></i> Our Team</a>
-      <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-list"></i> Stocks</a>
       <a href="#contact" class="w3-bar-item w3-button">Contact</a>
       <a href="documents/" class="w3-bar-item w3-button" target="_blank">Network Bid</a>
     </div>
