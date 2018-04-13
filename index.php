@@ -69,7 +69,7 @@ comment{
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-list"></i> Our Team</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-list"></i> Stocks</a>
       <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-      <a href="https://10.183.2.6/html/networkbid.html" class="w3-bar-item w3-button" target="_blank">Network Bid</a>
+      <a href="/https/skanoodle/documents/network_bid.pdf" class="w3-bar-item w3-button" target="_blank">Network Bid</a>
     </div>
 
     <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
